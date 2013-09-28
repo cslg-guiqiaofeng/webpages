@@ -1,0 +1,88 @@
+body{*margin-left: 200px;font-size: 12px;line-height: 20px;font-family: "宋体",}
+img{border: none;}
+li{list-style: none;}
+
+#header {width: 900px;margin: 0px auto;background-color: rgb(255, 255, 255);height: 66px;margin-top: -8px;*margin-top: -33px;}
+.topline1 { border-bottom: 1px solid rgb(126, 126, 126);width: 900px;height: 1px;}
+.topline2 {border-bottom: 1px solid rgb(179, 179, 179);width: 900px;height: 1px;margin-top: -2px;*margin-top: -20px;}
+#logo {float: left;margin: 23px 0px 0px 19px;width: 150px;display: inline;}
+#Navi { float: right;width: 280px;margin-right: -10px;height: 64px;}
+#Navi ul {margin: 10px 0px 0px;padding: 0px;text-align: right;}
+#Navi ul li {float: left;margin: 0px;padding: 0px 6px;}
+#Navi ul li a {color: rgb(12, 137, 168);text-decoration: none;}
+#Navi ul li a:hover {text-decoration: underline;}
+#search {float: right;margin-right: 10px;width: 165px;height: 18px;}
+.inp {width: 108px;height: 16px;border: 1px solid rgb(210, 210, 210);margin-right: 4px;}
+
+
+
+
+#globalNavi {width: 900px;height: 32px;margin: 0px auto;border-bottom: 1px solid rgb(255, 255, 255);border-top: 1px solid rgb(229, 229, 229);background: url("images/header_bg001.gif") repeat-x scroll left top transparent;}
+#globalNavi ul {margin: 0px;padding: 0px;}
+#globalNavi ul li {margin: 0px;padding: 0px;float: left;list-style: none outside none;}
+#globalNavi ul li a:hover {color: rgb(86, 86, 86);text-decoration: none;}
+
+
+
+#index_flash { margin: 0px auto;width: 905px; border-bottom: 1px solid rgb(215, 215, 215);height: 310px;border: 1px solid #ccc;}
+.dis{display: none;}
+
+#catena_product {height: 73px;margin: 0px auto;width: 899px;border-bottom: 1px solid rgb(255, 255, 255);border-top: 1px solid rgb(238, 238, 238);border-right: 1px solid rgb(230, 230, 230);}
+.cp_left {width: 124px;float: left;}
+.cp_right{width: 774px;height: 72px;float: left;}
+.cp_righttop { width: 774px;float: left;background: url("images/index_bg001.gif") no-repeat scroll center top transparent;height: 23px;}
+.cp_rightdown {width: 774px;float: left;height: 50px;}
+.cp_righttop ul {margin: 0px 0px 0px 21px;padding: 0px;}
+.cp_righttop ul li {list-style: none outside none;float: left;padding: 0px 18px;margin: 0px;line-height: 19px;}
+.cp_righttop ul li .imgs {float: left;margin-right: 6px;margin-top: 4px;}
+.cp_righttop ul li a {color: rgb(255, 255, 255);text-decoration: none;}
+ .cp_rightdown ul {margin: 8px 0px 0px 20px;padding: 0px;}
+.cp_rightdown ul li {list-style: none outside none;float: left;margin: 0px;padding: 0px 14px;}
+
+
+
+#contents {clear: both;width: 920px;margin: 0px auto;height: 288px;background: url("images/citizen_ch_bg01.gif") repeat-x scroll center top transparent;}
+#contentsl{width: 538px;height: 236px;float: left;margin-top: 28px;}
+#contentsr{width:346px;height: 264px;float:right;margin-top: 24px;}
+#title{width: 538px;height: 22px;border-bottom: 1px solid  rgb(229, 229, 229); }
+#news{width: 538px;height: 200px;}
+#titlel{width: 45px;height: 20px;float: left;}
+#titler{width: 45px;height: 20px;float:right;}
+#titler a {color: rgb(86, 86, 86);}
+#titler a:hover{text-decoration: none;}
+#news dl {margin: 10px 0px 0px 10px;padding: 0px;}
+#news dt {float: left;font-weight: bold;margin: 0px;padding: 0px;line-height: 40px;}
+#news dd {margin-left: 80px;line-height: 40px;}
+#news dd a {color: rgb(86, 86, 86);}
+#news dd a:hover{text-decoration: none;}
+#contentsr_top{width: 311px;height: 115px;padding-top: 4px;padding-left: 25px;text-align: left; margin-bottom: 34px;}
+#topt{width: 302px;height: 28px;}
+#toptl{width: 70px;height: 21px;float: left;}
+#toptr{width: 70px;height: 21px;float: right;margin-right: 5px;}
+#topn{width: 300px;height: 62px;}
+#topnl{width: 145px;height:61px;float: left;}
+#topnr{width: 145px;height: 61px;float: right;}
+#contentsr_bottom{width: 301px;height: 108px;background: url("images/citizen_ch_img08.gif") no-repeat scroll left top transparent;padding-top: 3px;padding-left: 25px;text-align: left;margin-bottom: 45px;}
+#bottomn{width: 300px;height: 61px;margin-top:40px;}
+#bottomnl{width:145px;height: 61px;float: left;}
+#bottomnr{width: 145px;height: 61px;float: right;}
+
+
+
+
+
+
+
+
+#footer {height: 65px;width: 900px;margin: 20px auto 0px;background: url("images/footer_bg.gif") repeat-x scroll center top transparent;}
+#foott{width: 890px;height: 42px;}
+#footer1{width: 480px;height: 35px;float: left;}
+#footer2{float: right; padding: 8px 4px 0 0; font-size: 11px;width: 400px;height: 20px;}
+#footer1 ul { height: 35px;margin: 0px;padding: 0px 0px 0px 10px;}
+#footer1 ul li {list-style: none outside none; float: left;padding: 0px;margin: 0px;line-height: 35px;width: 86px;}
+#footer1 ul li img {float: left;margin-top: 12px;}
+#footer1 ul li a {display: block; color: rgb(0, 0, 0);text-decoration: none;}
+#footer1 ul li a:hover {text-decoration: underline;}
+.icp { margin-top: 2px;text-align: center;width: 900px;height: 20px;}
+ .icp a {color: rgb(0, 0, 0);text-decoration: none;}
+ .icp span {color: rgb(0, 0, 0);}

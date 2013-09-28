@@ -1,0 +1,89 @@
+body {color: rgb(0, 0, 0);background: url("images/bg.jpg") repeat scroll left top transparent;text-align: center;}
+img{border: none;}
+
+.head{height: 58px;background: none repeat scroll 0% 0% rgb(240, 59, 110);position: relative;z-index: 999;}
+.box{width: 920px;height: 58px;margin: 0px auto;text-align:left;position: relative;}
+.box_logo_01{position: absolute;top: 0px;left: 8px;width: 382px;height: 60px;background-image: url("images/logo_01.png");}
+.box_img_02{position: absolute;top: 0px;right: 5px;width: 340px;height: 96px;background-image: url("images/top_ad.jpg");}
+
+
+
+
+.bd{width: 950px;height:1214px;margin: 0px auto;text-align: left;position: relative;}
+#reg_left {width: 279px;float: left;height: 1140px;margin-left:13px;}
+.left_t {height: 177px;background: url("images/left_top.jpg") no-repeat scroll left top transparent;position: relative;}
+.jy_logo {display: block; width: 150px;height: 69px;position: absolute;top: -9px;left: 65px;}
+.left_m {height: 392px;position: relative;background: url("images/left_mid_v2.png") no-repeat scroll 0% 0% transparent;margin: -12px 1px;padding: 0px;border: 0px none;*margin: 0px 0px;}
+.ask_list {padding: 10px 0px 0px 74px;text-align: left;width: 205px;height: 298px;*padding: 10px 0px 0px 30px;}
+.we {width: 205px; height: 30px;padding-top: 46px;color: rgb(102, 102, 102); font-size: 12px; list-style-type: none;*width: 180px;line-height: 28px;}
+.ask_list li strong {color: rgb(185, 133, 52);}
+.openid {position: absolute;bottom:-15px;left: 23px;color: rgb(102, 102, 102);font-size: 12px;width:246px;height: 104px; }
+.openid p {color: rgb(160, 160, 160);font-size: 12px;margin-top: 8px;*margin:8px 0 0 0;}
+.openid a.openid_qq {margin-right: 17px;}
+.openid a {color: rgb(102, 102, 102);overflow: hidden;padding: 0px 0px 0px 2px;margin: 6px 6px 0px 0px;text-decoration: none;*margin: 6px 0px 8px 0px;}
+.openid a:hover{color: rgb(0, 99, 220);text-decoration: none;}
+.openid a img {vertical-align: text-bottom;margin: 0px 2px 0px 0px;}
+.left_img1{width: 70px;height: 129px;position: absolute;left: -50px;top: 202px;background: url("images/img_l.jpg") no-repeat scroll left top transparent;}
+.left_img2{width: 59px;height: 122px;position: absolute;left: 281px;top: 334px;background: url("images/img_r.jpg") no-repeat scroll left top transparent;}
+.left_img3{width: 297px;height: 412px;position: absolute;left: -12px;top: 717px;background: url("images/left_img.jpg") no-repeat scroll left top transparent;}
+.left_b {height: 125px; background: url("images/left_bottom.png") no-repeat scroll left top transparent;}
+
+
+
+
+
+
+#reg_right {width: 641px;float: left;height: 1140px;background: url("images/right_bg.jpg") no-repeat scroll left bottom transparent;background-color: white;*width: 600px;*float: right;}
+.clear{width: 571px;height: 35px;margin-top: 25px;}
+.reg_h1 {height: 33px;width: 252px;background: url("images/reg_h1.png") no-repeat scroll 0px -1px transparent;float: left;text-indent: -999px;margin-top:7px;}
+.qy_btn {display: block;float: right;width: 130px;margin-top: 15px;overflow: hidden;font-size: 12px;color: rgb(0, 99, 220);text-decoration: none;}
+.qy_btn:hover{text-decoration: underline;}
+#form{height: 957px;width:571px ;border: 1px solid white;margin-left:16px; }
+.reg_table td{line-height: 40px;color: rgb(51, 51, 51);font-size: 14px;}
+.reg_text { height: 2px;line-height: 0;font-size: 0px;background-color: rgb(233, 233, 233);margin: 10px 0px;overflow: hidden;}
+.credibility {height: 1px;font-size: 1px;}
+.reg_table td span {font-size: 12px;}
+.reg_table td.font14 {font-size: 14px;}
+.f_l {float: left;}
+.reg_table td .span_s {padding-top: 8px;line-height: 20px;display: inline-block;}
+.reg_table td .radios {margin-right: 5px;vertical-align: text-bottom;}
+.tips {color: rgb(144, 142, 141);line-height: 18px;padding: 8px 10px 5px;float: right;}
+.select_SR { width: 350px;height: 19px;line-height: 19px;position: relative;padding-top: 6px;}
+.select_Year, .select_Month, .select_Day,  .select_City, .select_City2 { width: 115px;height: 19px;float:left;display: inline;}
+
+.input_Year, .input_Month, .input_Day, .input_Height, .input_City, .input_City2 { width: 88px;height: 17px;text-align: center;line-height: 17px;border: 1px solid rgb(171, 173, 179);background: none repeat scroll 0% 0% rgb(255, 255, 255); color: rgb(0, 0, 0);}
+.select_DQ { width: 350px;height: 19px;line-height: 19px;position: relative;padding-top: 6px;}
+ .true{width: 18px;height: 31px;line-height: 31px;background: url("images/ico_true.gif") no-repeat scroll 0px 6px transparent; margin: 0px 5px;display: inline;float: left;}
+.w_110 {width: 110px;}
+.pstion {position: relative;width: 100%; height: 30px;}
+.nxdb {width: 382px;height:30px;border-bottom: 1px solid rgb(228, 228, 228);list-style: none outside none;}
+.nxdb li {float: left;margin-left: 3px;width: 78px;line-height: 27px;text-align: center;cursor: pointer;}
+.nxdb li.cur { background: url("images/nxdb_bg.jpg") no-repeat scroll left -29px transparent;color: rgb(51, 51, 51);position: relative;top: 0px;margin-bottom: -1px;height: 28px;font-weight: 600;}
+.nxdb li {
+    float: left;
+    margin-left: 3px;
+    width: 78px;
+    height: 27px;
+    line-height: 27px;
+    background: url("images/nxdb_bg.jpg") no-repeat scroll left top transparent;
+    text-align: center;
+    color: rgb(102, 102, 102);
+    cursor: pointer;
+ }
+ .nxdb_a{float: right;height: 25px;line-height: 25px;position: absolute;left: 290px;bottom: 0px;text-decoration: none;font-size: 14px;*margin-bottom: 20px;}
+ .nxdb_a:hover{text-decoration: underline;}
+.dubai {width: 370px;height: 140px;color: rgb(102, 102, 102);line-height: 18px;padding: 5px;border: 1px solid rgb(204, 204, 204);font-size: 12px;}
+.reg_tip {line-height: 8px;color: rgb(102, 102, 102);padding:3px 0px;font-size: 12px;}
+
+.reg_table td .reg_tip span {font-weight: 600;color: rgb(255, 38, 0);}
+.next_btn{display: block;width: 308px;height: 45px;line-height: 44px;text-align: center;color: rgb(255, 255, 255);font-size: 18px;font-family: 'microsoft yahei';background: url("images/reg_btn.png") no-repeat scroll left top transparent;margin-top: 10px;cursor: pointer;text-shadow: 0px 0px 0px rgb(24, 143, 176);text-decoration: none;}
+#reg_rightbot{width: 641px;height: 120px;background:url("images/right_bom.jpg") no-repeat scroll left bottom transparent; }
+.reg_tk a{color: rgb(0, 99, 220);text-decoration: none;font-size: 12px;}
+.reg_tk a:hover{text-decoration: underline;}
+
+
+.foot_bg{padding: 30px 0px;color: rgb(51, 51, 51);text-align: center;margin: 0px;border: 0px none;font-size: 12px;}
+
+
+
+
